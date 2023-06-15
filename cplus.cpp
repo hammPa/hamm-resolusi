@@ -3,7 +3,9 @@
 
 int main(){
   
-  std::map < nama, isi > contohMap;
+  std::map < std::string, std::string > contohMap;
+  contohMap["nama"] = "si fulan";
+  contohMap["pendidikan"] = "esempe";
   
   return 0; 
 }
