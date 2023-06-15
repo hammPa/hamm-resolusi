@@ -1,11 +1,9 @@
 #include <iostream>
-#include <array>
-using namespace std;
+#include <map>
 
 int main(){
   
-  array < int, 5 > arr;
-  cout << "reference arr : " << arr << endl;
+  std::map < nama, isi > contohMap;
   
   return 0; 
 }
