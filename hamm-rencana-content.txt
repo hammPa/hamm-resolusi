@@ -2,6 +2,5 @@ RENCANA CONTENT HAMM
 
 -video js
 -post hapi js : handler
--lomba teros
 -portofolio
--struktur data
+-struktur data : binary search, pointer
