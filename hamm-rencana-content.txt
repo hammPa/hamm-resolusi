@@ -4,3 +4,4 @@ RENCANA CONTENT HAMM
 -post hapi js : handler
 -lomba teros
 -portofolio
+-struktur data
