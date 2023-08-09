@@ -3,5 +3,6 @@ RENCANA CONTENT HAMM
 -video js
 -post hapi js : handler
 -lomba teros
--portofolio
--struktur data
+-portofolio 
+-struktur data : linked list
+-python
