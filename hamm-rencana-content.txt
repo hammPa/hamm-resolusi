@@ -4,5 +4,5 @@ RENCANA CONTENT HAMM
 -post hapi js : handler
 -lomba teros
 -portofolio 
--struktur data : linked list
+-struktur data : linked list, binary tree
 -python
